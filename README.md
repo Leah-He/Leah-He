@@ -1,34 +1,55 @@
+<div align="center">
+
 # Hi, I'm Leah 👋
 
-### Economics × Computer Science × Data Analytics
+### Economics × Data × Technology
 
-I'm passionate about using data, technology, and economic reasoning to solve real-world problems.
+*Bridging economic thinking and technology to solve real-world problems.*
 
-🎓 Economics Major | Computer Science Minor  
-📍 Centre College  
-💼 Interests: Data Science, Risk Analytics, FinTech & AI  
-🧠 Currently exploring machine learning and financial analytics
+![Data Science](https://img.shields.io/badge/Data-Science-8B5CF6?style=flat-square)
+![Risk Analytics](https://img.shields.io/badge/Risk-Analytics-7C3AED?style=flat-square)
+![FinTech](https://img.shields.io/badge/FinTech-6366F1?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Machine%20Learning-A78BFA?style=flat-square)
 
----
-
-### 🛠 Tech Stack
-
-**Programming:** Python · R · Java  
-**Data & Analytics:** Pandas · NumPy · scikit-learn · Stata · Excel  
-**Focus Areas:** Econometrics · Machine Learning · Financial Analytics
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## ✨ About Me
 
-📈 **ETF Portfolio Optimization** — Portfolio backtesting, risk analysis and optimization.
+I'm an Economics major and Computer Science minor at **Centre College**, interested in using data, quantitative methods, and technology to support better decisions.
 
-🛍️ **E-Commerce Customer Segmentation** — K-Means clustering and customer behavior analytics.
+- 📊 Interested in **Data Science, Risk Analytics, FinTech & AI**
+- 🧠 Exploring financial modeling, machine learning, and applied econometrics
+- 💡 Motivated by analytical thinking and real-world problem-solving
 
-🤖 **StockSense AI** — Financial news sentiment analysis using LLMs.
+## 🛠 Tech Stack
+
+**Programming:** Python · R · Java
+
+**Data & Analytics:** Pandas · NumPy · scikit-learn · Stata · Excel
+
+**Core Interests:** Econometrics · Machine Learning · Financial Analytics
+
+## 🚀 Selected Projects
+
+| Project | What I Worked On |
+| :--- | :--- |
+| 📈 **ETF Portfolio Optimization** | Portfolio backtesting, risk measurement and optimization |
+| 🤖 **StockSense AI** | LLM-powered financial news sentiment analysis |
+| 🛍️ **E-Commerce Customer Segmentation** | Led a team applying K-Means clustering to customer data |
+| 📊 **Econometrics Research** | Regression analysis of U.S. higher education data |
+
+*Project links and detailed documentation coming soon.*
+
+## 🌱 Currently Exploring
+
+Financial risk modeling · Applied machine learning · Data-driven decision-making
 
 ---
 
-### 🌱 What I'm Working On
+<div align="center">
 
-Building practical data-driven projects at the intersection of economics, finance and technology.
+*Thanks for visiting! ✨*
+
+</div>

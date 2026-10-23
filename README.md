@@ -1,3 +1,4 @@
+![Leah's Coding Room](https://raw.githubusercontent.com/Leah-He/Leah-He/main/leah_mature_cozy_coding_animated.gif)
 <div align="center">
 
 # Hi, I'm Leah 👋

@@ -38,7 +38,7 @@ I'm an Economics major and Computer Science minor at **Centre College**, interes
 | :--- | :--- |
 | 📈 **ETF Portfolio Optimization** | Portfolio backtesting, risk measurement and optimization |
 | 🤖 **StockSense AI** | LLM-powered financial news sentiment analysis |
-| 🛍️ **E-Commerce Customer Segmentation** | Led a team applying K-Means clustering to customer data |
+| 🛒 **[E-Commerce Sales & Customer Analytics](https://github.com/Leah-He/ecommerce-sales-customer-analytics)** | Led technical analysis and coordinated team contributions; applied RFM and K-Means for customer segmentation |
 | 📊 **Econometrics Research** | Regression analysis of U.S. higher education data |
 
 *Project links and detailed documentation coming soon.*

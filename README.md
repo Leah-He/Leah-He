@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Leah 👋
 
-<!--
-**Leah-He/Leah-He** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Economics × Computer Science × Data Analytics
 
-Here are some ideas to get you started:
+I'm passionate about using data, technology, and economic reasoning to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Economics Major | Computer Science Minor  
+📍 Centre College  
+💼 Interests: Data Science, Risk Analytics, FinTech & AI  
+🧠 Currently exploring machine learning and financial analytics
+
+---
+
+### 🛠 Tech Stack
+
+**Programming:** Python · R · Java  
+**Data & Analytics:** Pandas · NumPy · scikit-learn · Stata · Excel  
+**Focus Areas:** Econometrics · Machine Learning · Financial Analytics
+
+---
+
+### 🚀 Featured Projects
+
+📈 **ETF Portfolio Optimization** — Portfolio backtesting, risk analysis and optimization.
+
+🛍️ **E-Commerce Customer Segmentation** — K-Means clustering and customer behavior analytics.
+
+🤖 **StockSense AI** — Financial news sentiment analysis using LLMs.
+
+---
+
+### 🌱 What I'm Working On
+
+Building practical data-driven projects at the intersection of economics, finance and technology.

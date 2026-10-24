@@ -1,56 +1,43 @@
-![Leah's Coding Room](https://raw.githubusercontent.com/Leah-He/Leah-He/main/leah_mature_cozy_coding_animated.gif)
 <div align="center">
 
 # Hi, I'm Leah 👋
 
 ### Economics × Data × Technology
 
-*Bridging economic thinking and technology to solve real-world problems.*
+*I don't need to know everything to get started. I just need a good question and the willingness to figure it out.*
 
-![Data Science](https://img.shields.io/badge/Data-Science-8B5CF6?style=flat-square)
-![Risk Analytics](https://img.shields.io/badge/Risk-Analytics-7C3AED?style=flat-square)
-![FinTech](https://img.shields.io/badge/FinTech-6366F1?style=flat-square)
-![AI](https://img.shields.io/badge/AI-Machine%20Learning-A78BFA?style=flat-square)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-8B5CF6?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-7C3AED?style=flat-square)
+![Risk Analytics](https://img.shields.io/badge/Risk-Analytics-6366F1?style=flat-square)
+![Econometrics](https://img.shields.io/badge/Econometrics-A78BFA?style=flat-square)
+![Quantitative Analysis](https://img.shields.io/badge/Quantitative-Analysis-9575CD?style=flat-square)
 
+![Leah's Coding Room](https://raw.githubusercontent.com/Leah-He/Leah-He/main/leah_mature_cozy_coding_animated.gif)
 </div>
 
 ---
 
-## ✨ About Me
+## About Me
 
-I'm an Economics major and Computer Science minor at **Centre College**, interested in using data, quantitative methods, and technology to support better decisions.
+Economics major, CS minor at Centre College. Naturally curious. Ask questions, look for patterns, and use code to figure things out.
 
-- 📊 Interested in **Data Science, Risk Analytics, FinTech & AI**
-- 🧠 Exploring financial modeling, machine learning, and applied econometrics
-- 💡 Motivated by analytical thinking and real-world problem-solving
+## My Toolkit
 
-## 🛠 Tech Stack
+**Programming:** Python · R · Java · C
 
-**Programming:** Python · R · Java
+**Data & Analytics:** Pandas · NumPy · SQL · Power BI · scikit-learn · Stata · Excel
 
-**Data & Analytics:** Pandas · NumPy · scikit-learn · Stata · Excel
+**Core Interests:** Data · Economics · Finance · A little bit of everything quantitative:)
 
-**Core Interests:** Econometrics · Machine Learning · Financial Analytics
 
-## 🚀 Selected Projects
+## What I'm Playing With Lately 
 
-| Project | What I Worked On |
-| :--- | :--- |
-| 📈 **ETF Portfolio Optimization** | Portfolio backtesting, risk measurement and optimization |
-| 🤖 **StockSense AI** | LLM-powered financial news sentiment analysis |
-| 🛒 **[E-Commerce Sales & Customer Analytics](https://github.com/Leah-He/ecommerce-sales-customer-analytics)** | Led technical analysis and coordinated team contributions; applied RFM and K-Means for customer segmentation |
-| 📊 **Econometrics Research** | Regression analysis of U.S. higher education data |
-
-*Project links and detailed documentation coming soon.*
-
-## 🌱 Currently Exploring
-
-Financial risk modeling · Applied machine learning · Data-driven decision-making
+Applied AI · Machine Learning · Turning "I wonder if..." into "Let's find out."
 
 ---
 
 <div align="center">
 
-*Thanks for visiting! ✨*
+*✨ Thanks for visiting! ✨*
 
 </div>

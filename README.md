@@ -1,6 +1,9 @@
 <div align="center">
 
-# Hi, I'm Leah 👋
+<h1 align="center">
+  Hi, I'm Leah 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="waving hand">
+</h1>
 
 ### Economics × Data × Technology
 
